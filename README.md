@@ -1,6 +1,7 @@
-# README Boilerplate
+# Shared Wallet
 
-A template of README best practices to make your README simple to understand and easy to use. 
+A contract where people can share with others.
+HackMoney 2022 EthGlobal Hackathon project.
 
 ## Table of Contents
 
