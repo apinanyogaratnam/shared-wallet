@@ -1,7 +1,7 @@
 # Shared Wallet
 
 A contract where people can share with others.
-HackMoney 2022 EthGlobal Hackathon project.
+Chainlink Spring 2022 Hackathon project.
 
 ## Table of Contents
 
